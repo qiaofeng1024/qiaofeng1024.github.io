@@ -1,3 +1,11 @@
+layout: true
+class: typo, typo-selection
+
+---
+
+count: false
+class: nord-dark, center, middle
+
 # From Cloud to Earth - Offline working 
 
 ## @luk036
@@ -18,6 +26,7 @@
 
 - Reduce data usage
 - Reduce distractions
+- Security concern
 
 ---
 
@@ -39,7 +48,6 @@
 ## Download
 
 - youtube-dl
-    - Chrome extension
     - Ubuntu 20.04 LTS:
        - pip3 install youtube-dl
     - Windows:
@@ -64,7 +72,7 @@
     - Windows:
         - scoop status
         - scoop update firefox
-        - scoop update *
+        - scoop update \*
 
 ---
 
@@ -90,5 +98,7 @@
 - StackEdit.io
 
 ---
+
+class: nord-dark, center, middle
 
 # Q & A 🗣️
